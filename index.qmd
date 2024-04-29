@@ -1,0 +1,111 @@
+---
+title: "" 
+toc: false 
+format:
+  html: 
+    sidebar-width: 300px
+    body-width: 900px
+    margin-width: 300px
+    gutter-width: 1.5rem
+from: markdown+emoji
+---
+
+::: grid
+::: g-col-4
+![](media/foto4.png)
+:::
+
+::: g-col-8
+\
+\
+\
+[Hi, I'm Thomas :wave:]{.orange-h1-thicc}\
+[welcome to my site!]{.orange-h2-thicc}\
+\
+I'm a social science student at [Justus-Liebig-University Gießen](https://www.uni-giessen.de/de/fbz/fb03)
+\
+<br>
+<div class="grid button-container" style="margin-left: auto; margin-right: auto; max-width: 400px;">
+
+  <div class="g-col-2 center-text text-scp">[ [Github](https://github.com/thhaase)]{.button}</div>
+
+  <div class="g-col-2 right-text  text-scp">[ [Blog](https://thhaase.github.io/Sythoz_Blog) ]{.button}</div>
+  
+</div>
+:::
+:::
+
+---
+
+<!--
+
+<div class="center-text orange-h1-weighted"> Links </div>
+
+<div class="grid button-container" style="margin-left: auto; margin-right: auto; max-width: 400px;">
+
+  <div class="g-col-2 right-text  text-scp">[ [Blog](./blog.qmd) ]{.button}</div>
+  
+  <div class="g-col-2 center-text text-scp">[ [Github](https://github.com/thhaase)]{.button}</div>
+  
+  
+  <div class="g-col-3 center-text text-scp">[ [...](./street.qmd) ]{.button}</div>
+  
+  <div class="g-col-3 left-text   text-scp">[ [...](./about.qmd) ]{.button}</div>
+
+</div>
+\
+
+---
+-->
+
+<div class="center-text orange-h1-weighted"> Details </div>
+
+[Work Experience]{.orange-h2}
+
+|            |                   |           |
+|-|-|---------|
+| since 2022 | Tutor             | **Empirical methods and data collection**<br> Justus-Liebig-Universität Gießen  Institut für Soziologie |
+| since 2023 | Tutor             | **Statistics**<br> Justus-Liebig-Universität Gießen - Institut für Politikwissenschaft |
+| 2023       | Internship        |  **GESIS [6 Weeks]**<br> Department: Computational Social Science. |
+| 2023       | Student Assistent |  **Support conference organization**<br> Justus-Liebig-Universität Gießen. - Institut für Soziologie |
+
+<br>
+
+[Other Experience]{.orange-h2}
+
+- Workshop: Quantitative content analysis [8h] <br> [(Methodentage JLU 2023 - Dr. Marius Sältzer) ]{.small-grey-text}
+- Workshop: Intro to multilevel analysis [16h] <br> [(Methodentage JLU 2022 - Sandra Scheuring)   ]{.small-grey-text}
+- Workshop: Intro to SEM                 [16h] <br> [(Methodentage JLU 2022 - Dr. Henrik Andersen)]{.small-grey-text}
+- Seminar: Information and Datamanagement I [3CP] <br> [University Library JLU 2023]{.small-grey-text}
+
+<br>
+[Education]{.orange-h2}
+
+|                   |                                                                                                |
+|------------------ |------------------------------------------------------------------------------------------------|
+| since 10/2021     | B.A. Sozialwissenschaften, Justus-Liebig-Universität, Gießen                                   |
+| 2020 - 2021       | Physik, Justus-Liebig-Universität, Gießen <br> [Not completed - subsequent change of subject]{.small-grey-text} |
+
+<br>
+[Skills]{.orange-h2}
+
+|          |                      |
+|--------- |----------------------|
+| Basics   | R, Git(-hub), Linux  |
+| Advanced | LaTeX                |
+
+
+
+
+<!--
+# what I do in my freetime
+- R Workshops
+- learning R and statistics
+- linux, software and open source
+- sorting my obsidean notes
+-->
+
+
+
+
+

@@ -1,0 +1,53 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+  site-url: https://www.thhaase.de/blog.html
+  description: "This is Thomas Haase's personal Website"
+  favicon: media/beamer.png
+  navbar:
+    collapse: true
+    collapse-below: sm
+    pinned: true
+    logo: media/beamer.png
+
+    right:
+    - href: https://thhaase.github.io/Sythoz_Blog
+      text: Blog
+    - icon: mastodon
+      href: https://social.tchncs.de/@thhaase
+    - icon: twitter
+      href: https://x.com/thhaase_
+    - icon: github
+      href: https://github.com/thhaase
+    - icon: spotify
+      href: https://open.spotify.com/user/kvqz88xd4goy62kojjy507veu?si=KR6CHMmaTPmgJR3d1UdKHA
+    - icon: envelope
+      href: "mailto:thhaase.soz@gmail.com"
+
+
+        
+#  page-footer:
+#    background: dark # or dark
+#    left:
+#      - text: "[CC-BY-NC-SA] Thomas Haase"
+#        href: https://creativecommons.org/licenses/by-nc-sa/4.0/
+#    right: 
+#      - text: "made with {{< fa heart >}} and quarto"
+#        href: https://quarto.org/
+        
+  search: false
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - styles.scss
+    mainfont: Lato
+    css: styles.css
+    toc: true
+
+editor: source
+

@@ -14,7 +14,7 @@ website:
     logo: media/beamer.png
 
     right:
-    - href: https://thhaase.github.io/Sythoz_Blog
+    - href: https://thhaase.github.io/Sythoz/
       text: Blog
     - icon: mastodon
       href: https://social.tchncs.de/@thhaase

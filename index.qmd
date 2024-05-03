@@ -29,7 +29,7 @@ I'm a social science student at [Justus-Liebig-University Gießen](https://www.u
 
   <div class="g-col-2 center-text text-scp">[ [Github](https://github.com/thhaase)]{.button}</div>
 
-  <div class="g-col-2 right-text  text-scp">[ [Blog](https://thhaase.github.io/Sythoz/) ]{.button}</div>
+  <div class="g-col-2 right-text  text-scp">[ [Blog](https://thhaase.github.io/Blog/) ]{.button}</div>
   
 </div>
 :::

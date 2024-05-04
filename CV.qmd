@@ -1,0 +1,38 @@
+
+<div class="center-text orange-h1-weighted"> CV </div>
+
+---
+
+[Work Experience]{.orange-h2}
+
+|            |                   |           |
+|-|-|---------|
+| since 2022 | Tutor             | **Empirical methods and data collection**<br> Justus-Liebig-Universität Gießen  Institut für Soziologie |
+| since 2023 | Tutor             | **Statistics**<br> Justus-Liebig-Universität Gießen - Institut für Politikwissenschaft |
+| 2023       | Internship        |  **GESIS [6 Weeks]**<br> Department: Computational Social Science. |
+| 2023       | Student Assistent |  **Support conference organization**<br> Justus-Liebig-Universität Gießen. - Institut für Soziologie |
+
+<br>
+
+[Other Experience]{.orange-h2}
+
+- Workshop: Quantitative content analysis [8h] <br> [(Methodentage JLU 2023 - Dr. Marius Sältzer) ]{.small-grey-text}
+- Workshop: Intro to multilevel analysis [16h] <br> [(Methodentage JLU 2022 - Sandra Scheuring)   ]{.small-grey-text}
+- Workshop: Intro to SEM                 [16h] <br> [(Methodentage JLU 2022 - Dr. Henrik Andersen)]{.small-grey-text}
+- Seminar: Information and Datamanagement I [3CP] <br> [University Library JLU 2023]{.small-grey-text}
+
+<br>
+[Education]{.orange-h2}
+
+|                   |                                                                                                |
+|------------------ |------------------------------------------------------------------------------------------------|
+| since 10/2021     | B.A. Sozialwissenschaften, Justus-Liebig-Universität, Gießen                                   |
+| 2020 - 2021       | Physik, Justus-Liebig-Universität, Gießen <br> [Not completed - subsequent change of subject]{.small-grey-text} |
+
+<br>
+[Skills]{.orange-h2}
+
+|          |                                   |
+|--------- |-----------------------------------|
+| Basics   | R, Git(-hub), Linux, Html/Css/Js  |
+| Advanced | LaTeX                             |

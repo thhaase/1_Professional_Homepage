@@ -1,3 +1,14 @@
+---
+title: "" 
+toc: false 
+format:
+  html: 
+    sidebar-width: 300px
+    body-width: 900px
+    margin-width: 300px
+    gutter-width: 1.5rem
+from: markdown+emoji
+---
 
 <div class="center-text orange-h1-weighted"> CV </div>
 

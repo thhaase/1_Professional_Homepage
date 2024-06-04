@@ -18,8 +18,6 @@ website:
       text: About
     - href: CV.qmd
       text: CV 
-    - href: https://thhaase.github.io/Blog/source/page.html?name=astrophotography
-      text: Astrophotography
     - href: https://thhaase.github.io/Blog/
       text: Blog
     - icon: mastodon
